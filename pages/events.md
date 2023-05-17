@@ -16,4 +16,4 @@ Ansible Community Day is a day-long community-focused event to discuss the Ansib
 - Address: 425 Summer Street, Boston, Massachusetts, 02210 USA
 - Rooms: Commonwealth Ballroom (General Session and Breakout 1), Grand Ballroom C (Breakout 2)
 
-See [the HackMD schedule](https://hackmd.io/0uT8IXjJTH2ZBB28jAQ1fA) for all the talks, breakouts, and other helpful info!
+See [the HackMD schedule](https://hackmd.io/0uT8IXjJTH2ZBB28jAQ1fA) for all the talks, breakouts, and other helpful info! Yay!
